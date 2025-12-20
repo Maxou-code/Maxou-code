@@ -1,14 +1,14 @@
 # Salut, moi c'est Maxou-code ! 👋
 
-Je suis un passionné de **robotique, programmation et projets open source**.  
-Actuellement, je développe des projets ambitieux, allant du **Rover autonome** aux applications web et outils informatiques.
+Je suis un passionné de **programmation en C/C++ et de systèmes embarqués**.  
+Je développe des projets ambitieux allant de **robots autonomes** à des applications matérielles complexes.
 
 ---
 
 ## 🚀 Projets en vedette
 
 ### Rover
-Mon projet principal : un **robot autonome** que je développe avec ESP, Arduino et Raspberry Pi.  
+Mon projet principal : un **robot autonome** que je développe avec ESP et Arduino.  
 - Contrôle complet depuis une interface web  
 - Capteurs et télémetrie en temps réel  
 - Capacité d’exploration autonome et programmation de missions  
@@ -18,5 +18,11 @@ Mon projet principal : un **robot autonome** que je développe avec ESP, Arduino
 ---
 
 ## 💻 Compétences
-- **Langages :** C, C++, Python, JavaScript  
-- **Matériel :** Arduino, ESP, Raspberry Pi  
+- **Langages :** C, C++  
+- **Systèmes embarqués :** Arduino, ESP  
+
+---
+
+## 🌟 Stats GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxou-code&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxou-code&show_icons=true&count_private=true)
