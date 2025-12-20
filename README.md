@@ -20,9 +20,3 @@ Mon projet principal : un **robot autonome** que je développe avec ESP et Ardui
 ## 💻 Compétences
 - **Langages :** C, C++  
 - **Systèmes embarqués :** Arduino, ESP  
-
----
-
-## 🌟 Stats GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxou-code&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxou-code&show_icons=true&count_private=true)
