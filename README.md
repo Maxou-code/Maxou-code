@@ -1,4 +1,4 @@
-# Salut, moi c'est Maxou-code ! 👋
+# Maxou-code ! 👋
 
 Je suis un passionné de **programmation en C/C++ et de systèmes embarqués**.  
 Je développe des projets ambitieux allant de **robots autonomes** à des applications matérielles complexes.
